@@ -1,6 +1,3 @@
-/*my code1
-/*123
-
 var http = require("http");
 
 http.createServer(function (request, response) {
